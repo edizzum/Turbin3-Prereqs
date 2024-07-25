@@ -28,7 +28,9 @@ The specific command is -> await program.methods
           keypair
         ]).rpc();
 To run the transfer.ts script, the command is: yarn enroll
-# TXs
+# TXs & Accounts
+yarn keygen1 => Ghzc6QJbiVpSMHmszsazLSVEPYoUMGjb7xiUT4jWibKt
+yarn keygen2 => 32bbtG5kq8MzKwpwivmdL1D1TJzULpGXsvdv1ZAanCYy
 yarn airdrop tx => https://explorer.solana.com/tx/pNpi9H82YkqZHFNYFMj3eUWd2ToRyxWGMajnkEXPpxZ7VM7HaU1tZqTL5gYvoAH21ovBYLq4CvDx3469hvpLYjW?cluster=devnet
 
 yarn transfer tx => https://explorer.solana.com/tx/29w7dokuZ3xvURMn9kZci4qxbbinokWwuoX2b5qtgDBTukyu1zDYtuqWSBLNq4mA9wkZAN4Q9sWzZijpdu3HkqUs?cluster=devnet
