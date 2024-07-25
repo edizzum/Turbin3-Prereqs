@@ -30,5 +30,7 @@ The specific command is -> await program.methods
 To run the transfer.ts script, the command is: yarn enroll
 # TXs
 yarn airdrop tx => https://explorer.solana.com/tx/pNpi9H82YkqZHFNYFMj3eUWd2ToRyxWGMajnkEXPpxZ7VM7HaU1tZqTL5gYvoAH21ovBYLq4CvDx3469hvpLYjW?cluster=devnet
+
 yarn transfer tx => https://explorer.solana.com/tx/29w7dokuZ3xvURMn9kZci4qxbbinokWwuoX2b5qtgDBTukyu1zDYtuqWSBLNq4mA9wkZAN4Q9sWzZijpdu3HkqUs?cluster=devnet
+
 yarn enroll tx => https://explorer.solana.com/tx/2eHijufe9aowVrutEenzkur81vM3r6erd42jmaHV8AjzcbWrJc5nZH6PEj9vmpgZAsiL3vRjxwwAchW8uDHMJNmv?cluster=devnet
